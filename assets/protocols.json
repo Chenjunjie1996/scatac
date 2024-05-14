@@ -2,5 +2,9 @@
   "SCATAC-V1":{
     "pattern": "C4L4C7L4C5",
     "bc": ["bc1.txt", "bc2.txt", "bc3.txt"]
+  },
+  "SCATAC-V0":{
+    "pattern": "C6L4C8L4C6",
+    "bc": ["bc1.txt", "bc2.txt", "bc3.txt"]
   }
 }
